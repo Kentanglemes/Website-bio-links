@@ -478,4 +478,19 @@ hyinya_s_nizy a {
     letter-spacing: 1px;
 }
 
+.name-with-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: nowrap;
+  padding-top: 12px;
+}
+
+.name-with-icon h3 {
+  margin: 0;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
 /* End */
