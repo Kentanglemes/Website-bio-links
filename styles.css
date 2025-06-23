@@ -482,22 +482,25 @@ hyinya_s_nizy a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 6px;
+  gap: 6px; /* Jarak antara teks dan ikon */
+  padding-top: 12px;
   color: white;
-  background: none;
-  border: none;
-  box-shadow: none;
+  letter-spacing: 1px;
 }
 
-.name-wrapper img {
-  border: none;
-  background: none;
-  border-radius: 0;
+.name-wrapper h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  margin: 0;
+  line-height: 1;
+  color: white;
 }
 
-.name-text {
-  color: white;
-  white-space: nowrap;
+.verified-icon {
+  height: 18px;
+  width: 18px;
+  object-fit: contain;
+  vertical-align: middle;
 }
 
 
