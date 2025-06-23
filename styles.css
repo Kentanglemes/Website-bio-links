@@ -483,16 +483,23 @@ hyinya_s_nizy a {
   align-items: center;
   justify-content: center;
   gap: 6px;
-  flex-wrap: nowrap;
   color: white;
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  margin-top: 12px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.name-wrapper img {
+  border: none;
+  background: none;
+  border-radius: 0;
 }
 
 .name-text {
+  color: white;
   white-space: nowrap;
 }
+
 
 
 /* End */
