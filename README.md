@@ -7,4 +7,4 @@ Simple website bio links, like linktree 🦅
 - https://tiktok.com/@akbaraprilioo
 
 ## Demo Website
-https://akbar.skysans.icu
+https://website-bio-links.pages.dev/
