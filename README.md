@@ -1,5 +1,5 @@
 ## Website Bio Links
-Simple website bio links, like linktree 🦅
+Simple website bio links 🦅
 ![Main](./assets/readme.jpg)
 
 ## Social Media
