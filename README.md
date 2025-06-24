@@ -1,6 +1,6 @@
 ## Website Bio Links
 Simple website bio links, like linktree 🦅
-![Main](https://github.com/kentanglemes/website-bio-links/blob/main/assets/GitHub/readme.jpg?raw=true)
+![Main](./assets/readme.jpg)
 
 ## Social Media
 - https://instagram.com/akbaraprilioo
