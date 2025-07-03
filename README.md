@@ -2,7 +2,7 @@
 Simple website bio links 🦅
 ![Main](./assets/readme.jpg)
 
-# Skysans Team's
+# 🌟 Skysans Team's
 - https://irfan.skysans.icu
 - https://akbar.skysans.icu
 - https://gibran.skysans.icu
